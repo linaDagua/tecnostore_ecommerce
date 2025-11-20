@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b112"
+  },
+  "nombre": "Tech Import Colombia",
+  "telefono": "3101234567",
+  "ciudad": "Bogotá",
+  "email": "ventas@techimport.co"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b113"
+  },
+  "nombre": "Electrónica Paisa SAS",
+  "telefono": "3209876543",
+  "ciudad": "Medellín",
+  "email": "info@electropaisa.co"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b114"
+  },
+  "nombre": "Distribuidora Digital",
+  "telefono": "3005555555",
+  "ciudad": "Cali",
+  "email": "contacto@distridigital.co"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b115"
+  },
+  "nombre": "Importec Colombia",
+  "telefono": "3157778888",
+  "ciudad": "Barranquilla",
+  "email": "ventas@importec.co"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b116"
+  },
+  "nombre": "Tecnología Express",
+  "telefono": "3006669999",
+  "ciudad": "Cartagena",
+  "email": "info@tecnoexpress.co"
+}]

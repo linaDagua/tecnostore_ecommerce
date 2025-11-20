@@ -1,0 +1,900 @@
+[{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b17b"
+  },
+  "numeroPedido": "ORD-2024-00001",
+  "cliente": "María García",
+  "telefono": "3006429039",
+  "ciudad": "Medellín",
+  "direccion": "Calle 11 #1-1",
+  "codigoProducto": "TECH-0003",
+  "cantidad": 3,
+  "total": 2316390,
+  "metodoPago": "Tarjeta",
+  "estado": "enviado",
+  "fechaPedido": {
+    "$date": "2024-01-02T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b17c"
+  },
+  "numeroPedido": "ORD-2024-00002",
+  "cliente": "Lina Magali Dagua",
+  "telefono": "3003101062",
+  "ciudad": "Jambalo",
+  "direccion": "Calle 12 #2-2",
+  "codigoProducto": "TECH-0005",
+  "cantidad": 1,
+  "total": 2128444,
+  "metodoPago": "Nequi",
+  "estado": "entregado",
+  "fechaPedido": {
+    "$date": "2024-01-03T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b17d"
+  },
+  "numeroPedido": "ORD-2024-00003",
+  "cliente": "Ana López",
+  "telefono": "3007096937",
+  "ciudad": "Barranquilla",
+  "direccion": "Calle 13 #3-3",
+  "codigoProducto": "TECH-0007",
+  "cantidad": 2,
+  "total": 2772357,
+  "metodoPago": "Efectivo",
+  "estado": "cancelado",
+  "fechaPedido": {
+    "$date": "2024-01-04T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b17e"
+  },
+  "numeroPedido": "ORD-2024-00004",
+  "cliente": "Luis Martínez",
+  "telefono": "3004589157",
+  "ciudad": "Cartagena",
+  "direccion": "Calle 14 #4-4",
+  "codigoProducto": "TECH-0009",
+  "cantidad": 3,
+  "total": 3604071,
+  "metodoPago": "Tarjeta",
+  "estado": "pendiente",
+  "fechaPedido": {
+    "$date": "2024-01-05T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b17f"
+  },
+  "numeroPedido": "ORD-2024-00005",
+  "cliente": "Laura Gómez",
+  "telefono": "3007177979",
+  "ciudad": "Bucaramanga",
+  "direccion": "Calle 15 #5-5",
+  "codigoProducto": "TECH-0011",
+  "cantidad": 1,
+  "total": 2781537,
+  "metodoPago": "PSE",
+  "estado": "enviado",
+  "fechaPedido": {
+    "$date": "2024-02-06T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b180"
+  },
+  "numeroPedido": "ORD-2024-00006",
+  "cliente": "Diego Hernández",
+  "telefono": "3001210499",
+  "ciudad": "Pereira",
+  "direccion": "Calle 16 #6-6",
+  "codigoProducto": "TECH-0013",
+  "cantidad": 3,
+  "total": 3922743,
+  "metodoPago": "Efectivo",
+  "estado": "entregado",
+  "fechaPedido": {
+    "$date": "2024-02-07T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b181"
+  },
+  "numeroPedido": "ORD-2024-00007",
+  "cliente": "Camila Torres",
+  "telefono": "3003721778",
+  "ciudad": "Bogotá",
+  "direccion": "Calle 17 #7-7",
+  "codigoProducto": "TECH-0015",
+  "cantidad": 2,
+  "total": 2772465,
+  "metodoPago": "Tarjeta",
+  "estado": "cancelado",
+  "fechaPedido": {
+    "$date": "2024-02-08T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b182"
+  },
+  "numeroPedido": "ORD-2024-00008",
+  "cliente": "Andrés Díaz",
+  "telefono": "300780383",
+  "ciudad": "Medellín",
+  "direccion": "Calle 18 #8-8",
+  "codigoProducto": "TECH-0017",
+  "cantidad": 3,
+  "total": 1783183,
+  "metodoPago": "PSE",
+  "estado": "pendiente",
+  "fechaPedido": {
+    "$date": "2024-02-09T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b183"
+  },
+  "numeroPedido": "ORD-2024-00009",
+  "cliente": "Sofía Castro",
+  "telefono": "3004018678",
+  "ciudad": "Cali",
+  "direccion": "Calle 19 #9-9",
+  "codigoProducto": "TECH-0019",
+  "cantidad": 1,
+  "total": 1642303,
+  "metodoPago": "Efectivo",
+  "estado": "enviado",
+  "fechaPedido": {
+    "$date": "2024-02-10T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b184"
+  },
+  "numeroPedido": "ORD-2024-00010",
+  "cliente": "Juan Pérez",
+  "telefono": "3007280950",
+  "ciudad": "Barranquilla",
+  "direccion": "Calle 20 #10-10",
+  "codigoProducto": "TECH-0021",
+  "cantidad": 3,
+  "total": 2006162,
+  "metodoPago": "Tarjeta",
+  "estado": "entregado",
+  "fechaPedido": {
+    "$date": "2024-03-11T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b185"
+  },
+  "numeroPedido": "ORD-2024-00011",
+  "cliente": "María García",
+  "telefono": "3007674664",
+  "ciudad": "Cartagena",
+  "direccion": "Calle 21 #11-11",
+  "codigoProducto": "TECH-0023",
+  "cantidad": 1,
+  "total": 2674525,
+  "metodoPago": "PSE",
+  "estado": "cancelado",
+  "fechaPedido": {
+    "$date": "2024-03-12T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b186"
+  },
+  "numeroPedido": "ORD-2024-00012",
+  "cliente": "Carlos Rodríguez",
+  "telefono": "3009747576",
+  "ciudad": "Bucaramanga",
+  "direccion": "Calle 22 #12-12",
+  "codigoProducto": "TECH-0025",
+  "cantidad": 3,
+  "total": 4543080,
+  "metodoPago": "Efectivo",
+  "estado": "pendiente",
+  "fechaPedido": {
+    "$date": "2024-03-13T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b187"
+  },
+  "numeroPedido": "ORD-2024-00013",
+  "cliente": "Ana López",
+  "telefono": "3008565884",
+  "ciudad": "Pereira",
+  "direccion": "Calle 23 #13-13",
+  "codigoProducto": "TECH-0027",
+  "cantidad": 3,
+  "total": 3863439,
+  "metodoPago": "Tarjeta",
+  "estado": "enviado",
+  "fechaPedido": {
+    "$date": "2024-03-14T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b188"
+  },
+  "numeroPedido": "ORD-2024-00014",
+  "cliente": "Luis Martínez",
+  "telefono": "30013027",
+  "ciudad": "Bogotá",
+  "direccion": "Calle 24 #14-14",
+  "codigoProducto": "TECH-0029",
+  "cantidad": 1,
+  "total": 3229544,
+  "metodoPago": "PSE",
+  "estado": "entregado",
+  "fechaPedido": {
+    "$date": "2024-03-15T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b189"
+  },
+  "numeroPedido": "ORD-2024-00015",
+  "cliente": "Laura Gómez",
+  "telefono": "3003926807",
+  "ciudad": "Medellín",
+  "direccion": "Calle 25 #15-15",
+  "codigoProducto": "TECH-0031",
+  "cantidad": 3,
+  "total": 1592525,
+  "metodoPago": "Efectivo",
+  "estado": "cancelado",
+  "fechaPedido": {
+    "$date": "2024-04-16T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b18a"
+  },
+  "numeroPedido": "ORD-2024-00016",
+  "cliente": "Diego Hernández",
+  "telefono": "3001626122",
+  "ciudad": "Cali",
+  "direccion": "Calle 26 #16-16",
+  "codigoProducto": "TECH-0033",
+  "cantidad": 1,
+  "total": 768899,
+  "metodoPago": "Tarjeta",
+  "estado": "pendiente",
+  "fechaPedido": {
+    "$date": "2024-04-17T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b18b"
+  },
+  "numeroPedido": "ORD-2024-00017",
+  "cliente": "Camila Torres",
+  "telefono": "3001559730",
+  "ciudad": "Barranquilla",
+  "direccion": "Calle 27 #17-17",
+  "codigoProducto": "TECH-0035",
+  "cantidad": 3,
+  "total": 1644883,
+  "metodoPago": "PSE",
+  "estado": "enviado",
+  "fechaPedido": {
+    "$date": "2024-04-18T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b18c"
+  },
+  "numeroPedido": "ORD-2024-00018",
+  "cliente": "Andrés Díaz",
+  "telefono": "3008073308",
+  "ciudad": "Cartagena",
+  "direccion": "Calle 28 #18-18",
+  "codigoProducto": "TECH-0037",
+  "cantidad": 1,
+  "total": 1743790,
+  "metodoPago": "Efectivo",
+  "estado": "entregado",
+  "fechaPedido": {
+    "$date": "2024-04-19T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b18d"
+  },
+  "numeroPedido": "ORD-2024-00019",
+  "cliente": "Sofía Castro",
+  "telefono": "3006643271",
+  "ciudad": "Bucaramanga",
+  "direccion": "Calle 29 #19-19",
+  "codigoProducto": "TECH-0039",
+  "cantidad": 3,
+  "total": 3255988,
+  "metodoPago": "Tarjeta",
+  "estado": "cancelado",
+  "fechaPedido": {
+    "$date": "2024-04-20T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b18e"
+  },
+  "numeroPedido": "ORD-2024-00020",
+  "cliente": "Juan Pérez",
+  "telefono": "3001946665",
+  "ciudad": "Pereira",
+  "direccion": "Calle 30 #20-20",
+  "codigoProducto": "TECH-0041",
+  "cantidad": 1,
+  "total": 1847873,
+  "metodoPago": "PSE",
+  "estado": "pendiente",
+  "fechaPedido": {
+    "$date": "2024-05-21T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b18f"
+  },
+  "numeroPedido": "ORD-2024-00021",
+  "cliente": "María García",
+  "telefono": "3007792250",
+  "ciudad": "Bogotá",
+  "direccion": "Calle 31 #21-21",
+  "codigoProducto": "TECH-0043",
+  "cantidad": 1,
+  "total": 2311889,
+  "metodoPago": "Efectivo",
+  "estado": "enviado",
+  "fechaPedido": {
+    "$date": "2024-05-22T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b190"
+  },
+  "numeroPedido": "ORD-2024-00022",
+  "cliente": "Carlos Rodríguez",
+  "telefono": "3009614772",
+  "ciudad": "Medellín",
+  "direccion": "Calle 32 #22-22",
+  "codigoProducto": "TECH-0045",
+  "cantidad": 1,
+  "total": 717262,
+  "metodoPago": "Tarjeta",
+  "estado": "entregado",
+  "fechaPedido": {
+    "$date": "2024-05-23T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b191"
+  },
+  "numeroPedido": "ORD-2024-00023",
+  "cliente": "Ana López",
+  "telefono": "3003705401",
+  "ciudad": "Cali",
+  "direccion": "Calle 33 #23-23",
+  "codigoProducto": "TECH-0047",
+  "cantidad": 1,
+  "total": 3068593,
+  "metodoPago": "PSE",
+  "estado": "cancelado",
+  "fechaPedido": {
+    "$date": "2024-05-24T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b192"
+  },
+  "numeroPedido": "ORD-2024-00024",
+  "cliente": "Luis Martínez",
+  "telefono": "3001757597",
+  "ciudad": "Barranquilla",
+  "direccion": "Calle 34 #24-24",
+  "codigoProducto": "TECH-0049",
+  "cantidad": 3,
+  "total": 1693158,
+  "metodoPago": "Efectivo",
+  "estado": "pendiente",
+  "fechaPedido": {
+    "$date": "2024-05-25T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b193"
+  },
+  "numeroPedido": "ORD-2024-00025",
+  "cliente": "Laura Gómez",
+  "telefono": "3004255660",
+  "ciudad": "Cartagena",
+  "direccion": "Calle 35 #25-25",
+  "codigoProducto": "TECH-0051",
+  "cantidad": 1,
+  "total": 2542075,
+  "metodoPago": "Tarjeta",
+  "estado": "enviado",
+  "fechaPedido": {
+    "$date": "2024-06-26T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b194"
+  },
+  "numeroPedido": "ORD-2024-00026",
+  "cliente": "Diego Hernández",
+  "telefono": "3007641611",
+  "ciudad": "Bucaramanga",
+  "direccion": "Calle 36 #26-26",
+  "codigoProducto": "TECH-0053",
+  "cantidad": 1,
+  "total": 3301491,
+  "metodoPago": "PSE",
+  "estado": "entregado",
+  "fechaPedido": {
+    "$date": "2024-06-27T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b195"
+  },
+  "numeroPedido": "ORD-2024-00027",
+  "cliente": "Camila Torres",
+  "telefono": "3003273897",
+  "ciudad": "Pereira",
+  "direccion": "Calle 37 #27-27",
+  "codigoProducto": "TECH-0055",
+  "cantidad": 2,
+  "total": 690021,
+  "metodoPago": "Efectivo",
+  "estado": "cancelado",
+  "fechaPedido": {
+    "$date": "2024-06-28T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b196"
+  },
+  "numeroPedido": "ORD-2024-00028",
+  "cliente": "Andrés Díaz",
+  "telefono": "3003306243",
+  "ciudad": "Bogotá",
+  "direccion": "Calle 38 #28-28",
+  "codigoProducto": "TECH-0057",
+  "cantidad": 3,
+  "total": 1002708,
+  "metodoPago": "Tarjeta",
+  "estado": "pendiente",
+  "fechaPedido": {
+    "$date": "2024-06-01T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b197"
+  },
+  "numeroPedido": "ORD-2024-00029",
+  "cliente": "Sofía Castro",
+  "telefono": "3008127046",
+  "ciudad": "Medellín",
+  "direccion": "Calle 39 #29-29",
+  "codigoProducto": "TECH-0059",
+  "cantidad": 1,
+  "total": 1805303,
+  "metodoPago": "PSE",
+  "estado": "enviado",
+  "fechaPedido": {
+    "$date": "2024-06-02T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b198"
+  },
+  "numeroPedido": "ORD-2024-00030",
+  "cliente": "Juan Pérez",
+  "telefono": "3003153861",
+  "ciudad": "Cali",
+  "direccion": "Calle 40 #30-30",
+  "codigoProducto": "TECH-0061",
+  "cantidad": 2,
+  "total": 1668203,
+  "metodoPago": "Efectivo",
+  "estado": "entregado",
+  "fechaPedido": {
+    "$date": "2024-07-03T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b199"
+  },
+  "numeroPedido": "ORD-2024-00031",
+  "cliente": "María García",
+  "telefono": "3004848861",
+  "ciudad": "Barranquilla",
+  "direccion": "Calle 41 #31-31",
+  "codigoProducto": "TECH-0063",
+  "cantidad": 2,
+  "total": 1442966,
+  "metodoPago": "Tarjeta",
+  "estado": "cancelado",
+  "fechaPedido": {
+    "$date": "2024-07-04T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b19a"
+  },
+  "numeroPedido": "ORD-2024-00032",
+  "cliente": "Carlos Rodríguez",
+  "telefono": "3005063694",
+  "ciudad": "Cartagena",
+  "direccion": "Calle 42 #32-32",
+  "codigoProducto": "TECH-0065",
+  "cantidad": 3,
+  "total": 3235097,
+  "metodoPago": "PSE",
+  "estado": "pendiente",
+  "fechaPedido": {
+    "$date": "2024-07-05T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b19b"
+  },
+  "numeroPedido": "ORD-2024-00033",
+  "cliente": "Ana López",
+  "telefono": "3003917568",
+  "ciudad": "Bucaramanga",
+  "direccion": "Calle 43 #33-33",
+  "codigoProducto": "TECH-0067",
+  "cantidad": 1,
+  "total": 1321130,
+  "metodoPago": "Efectivo",
+  "estado": "enviado",
+  "fechaPedido": {
+    "$date": "2024-07-06T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b19c"
+  },
+  "numeroPedido": "ORD-2024-00034",
+  "cliente": "Luis Martínez",
+  "telefono": "3003897967",
+  "ciudad": "Pereira",
+  "direccion": "Calle 44 #34-34",
+  "codigoProducto": "TECH-0069",
+  "cantidad": 3,
+  "total": 4018190,
+  "metodoPago": "Tarjeta",
+  "estado": "entregado",
+  "fechaPedido": {
+    "$date": "2024-07-07T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b19d"
+  },
+  "numeroPedido": "ORD-2024-00035",
+  "cliente": "Laura Gómez",
+  "telefono": "3002658396",
+  "ciudad": "Bogotá",
+  "direccion": "Calle 45 #35-35",
+  "codigoProducto": "TECH-0071",
+  "cantidad": 3,
+  "total": 1661795,
+  "metodoPago": "PSE",
+  "estado": "cancelado",
+  "fechaPedido": {
+    "$date": "2024-08-08T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b19e"
+  },
+  "numeroPedido": "ORD-2024-00036",
+  "cliente": "Diego Hernández",
+  "telefono": "3001698898",
+  "ciudad": "Medellín",
+  "direccion": "Calle 46 #36-36",
+  "codigoProducto": "TECH-0073",
+  "cantidad": 2,
+  "total": 2480857,
+  "metodoPago": "Efectivo",
+  "estado": "pendiente",
+  "fechaPedido": {
+    "$date": "2024-08-09T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b19f"
+  },
+  "numeroPedido": "ORD-2024-00037",
+  "cliente": "Camila Torres",
+  "telefono": "3002193783",
+  "ciudad": "Cali",
+  "direccion": "Calle 47 #37-37",
+  "codigoProducto": "TECH-0075",
+  "cantidad": 2,
+  "total": 688411,
+  "metodoPago": "Tarjeta",
+  "estado": "enviado",
+  "fechaPedido": {
+    "$date": "2024-08-10T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b1a0"
+  },
+  "numeroPedido": "ORD-2024-00038",
+  "cliente": "Andrés Díaz",
+  "telefono": "3003539607",
+  "ciudad": "Barranquilla",
+  "direccion": "Calle 48 #38-38",
+  "codigoProducto": "TECH-0077",
+  "cantidad": 1,
+  "total": 2198234,
+  "metodoPago": "PSE",
+  "estado": "entregado",
+  "fechaPedido": {
+    "$date": "2024-08-11T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b1a1"
+  },
+  "numeroPedido": "ORD-2024-00039",
+  "cliente": "Sofía Castro",
+  "telefono": "3001201725",
+  "ciudad": "Cartagena",
+  "direccion": "Calle 49 #39-39",
+  "codigoProducto": "TECH-0079",
+  "cantidad": 3,
+  "total": 3284802,
+  "metodoPago": "Efectivo",
+  "estado": "cancelado",
+  "fechaPedido": {
+    "$date": "2024-08-12T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b1a2"
+  },
+  "numeroPedido": "ORD-2024-00040",
+  "cliente": "Juan Pérez",
+  "telefono": "3009851296",
+  "ciudad": "Bucaramanga",
+  "direccion": "Calle 50 #40-40",
+  "codigoProducto": "TECH-0081",
+  "cantidad": 2,
+  "total": 4167323,
+  "metodoPago": "Tarjeta",
+  "estado": "pendiente",
+  "fechaPedido": {
+    "$date": "2024-09-13T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b1a3"
+  },
+  "numeroPedido": "ORD-2024-00041",
+  "cliente": "María García",
+  "telefono": "3004502022",
+  "ciudad": "Pereira",
+  "direccion": "Calle 51 #41-41",
+  "codigoProducto": "TECH-0083",
+  "cantidad": 2,
+  "total": 452918,
+  "metodoPago": "PSE",
+  "estado": "enviado",
+  "fechaPedido": {
+    "$date": "2024-09-14T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b1a4"
+  },
+  "numeroPedido": "ORD-2024-00042",
+  "cliente": "Carlos Rodríguez",
+  "telefono": "3005649461",
+  "ciudad": "Bogotá",
+  "direccion": "Calle 52 #42-42",
+  "codigoProducto": "TECH-0085",
+  "cantidad": 2,
+  "total": 3271900,
+  "metodoPago": "Efectivo",
+  "estado": "entregado",
+  "fechaPedido": {
+    "$date": "2024-09-15T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b1a5"
+  },
+  "numeroPedido": "ORD-2024-00043",
+  "cliente": "Ana López",
+  "telefono": "3009756569",
+  "ciudad": "Medellín",
+  "direccion": "Calle 53 #43-43",
+  "codigoProducto": "TECH-0087",
+  "cantidad": 3,
+  "total": 4325789,
+  "metodoPago": "Tarjeta",
+  "estado": "cancelado",
+  "fechaPedido": {
+    "$date": "2024-09-16T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b1a6"
+  },
+  "numeroPedido": "ORD-2024-00044",
+  "cliente": "Luis Martínez",
+  "telefono": "3005219767",
+  "ciudad": "Cali",
+  "direccion": "Calle 54 #44-44",
+  "codigoProducto": "TECH-0089",
+  "cantidad": 2,
+  "total": 1829112,
+  "metodoPago": "PSE",
+  "estado": "pendiente",
+  "fechaPedido": {
+    "$date": "2024-09-17T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b1a7"
+  },
+  "numeroPedido": "ORD-2024-00045",
+  "cliente": "Laura Gómez",
+  "telefono": "3003685458",
+  "ciudad": "Barranquilla",
+  "direccion": "Calle 55 #45-45",
+  "codigoProducto": "TECH-0091",
+  "cantidad": 1,
+  "total": 800422,
+  "metodoPago": "Efectivo",
+  "estado": "enviado",
+  "fechaPedido": {
+    "$date": "2024-10-18T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b1a8"
+  },
+  "numeroPedido": "ORD-2024-00046",
+  "cliente": "Diego Hernández",
+  "telefono": "3004932140",
+  "ciudad": "Cartagena",
+  "direccion": "Calle 56 #46-46",
+  "codigoProducto": "TECH-0093",
+  "cantidad": 1,
+  "total": 1862869,
+  "metodoPago": "Tarjeta",
+  "estado": "entregado",
+  "fechaPedido": {
+    "$date": "2024-10-19T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b1a9"
+  },
+  "numeroPedido": "ORD-2024-00047",
+  "cliente": "Camila Torres",
+  "telefono": "300144848",
+  "ciudad": "Bucaramanga",
+  "direccion": "Calle 57 #47-47",
+  "codigoProducto": "TECH-0095",
+  "cantidad": 3,
+  "total": 3699735,
+  "metodoPago": "PSE",
+  "estado": "cancelado",
+  "fechaPedido": {
+    "$date": "2024-10-20T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b1aa"
+  },
+  "numeroPedido": "ORD-2024-00048",
+  "cliente": "Andrés Díaz",
+  "telefono": "3005319710",
+  "ciudad": "Pereira",
+  "direccion": "Calle 58 #48-48",
+  "codigoProducto": "TECH-0097",
+  "cantidad": 2,
+  "total": 3805267,
+  "metodoPago": "Efectivo",
+  "estado": "pendiente",
+  "fechaPedido": {
+    "$date": "2024-10-21T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b1ab"
+  },
+  "numeroPedido": "ORD-2024-00049",
+  "cliente": "Sofía Castro",
+  "telefono": "3003807849",
+  "ciudad": "Bogotá",
+  "direccion": "Calle 59 #49-49",
+  "codigoProducto": "TECH-0099",
+  "cantidad": 3,
+  "total": 683018,
+  "metodoPago": "Tarjeta",
+  "estado": "enviado",
+  "fechaPedido": {
+    "$date": "2024-10-22T05:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b1ac"
+  },
+  "numeroPedido": "ORD-2024-00050",
+  "cliente": "Juan Pérez",
+  "telefono": "300603321",
+  "ciudad": "Medellín",
+  "direccion": "Calle 60 #0-50",
+  "codigoProducto": "TECH-0001",
+  "cantidad": 2,
+  "total": 5050077,
+  "metodoPago": "PSE",
+  "estado": "entregado",
+  "fechaPedido": {
+    "$date": "2024-11-23T05:00:00.000Z"
+  }
+}]

@@ -1,0 +1,3150 @@
+[{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b117"
+  },
+  "codigo": "TECH-0001",
+  "nombre": "Apple Portátile Pro 1",
+  "marca": "Apple",
+  "categoria": "Portátiles",
+  "precio": 5206458,
+  "stock": 54,
+  "stockMinimo": 10,
+  "proveedor": "Electrónica Paisa SAS",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b119"
+  },
+  "codigo": "TECH-0003",
+  "nombre": "HP Audífono Pro 3",
+  "marca": "HP",
+  "categoria": "Audífonos",
+  "precio": 423834,
+  "stock": 79,
+  "stockMinimo": 10,
+  "proveedor": "Importec Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b11a"
+  },
+  "codigo": "TECH-0004",
+  "nombre": "Dell Smartwatche Pro 4",
+  "marca": "Dell",
+  "categoria": "Smartwatches",
+  "precio": 1114980,
+  "stock": 10,
+  "stockMinimo": 10,
+  "proveedor": "Tecnología Express",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b11b"
+  },
+  "codigo": "TECH-0005",
+  "nombre": "Xiaomi Cámara Pro 5",
+  "marca": "Xiaomi",
+  "categoria": "Cámaras",
+  "precio": 2000171,
+  "stock": 74,
+  "stockMinimo": 10,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b11c"
+  },
+  "codigo": "TECH-0006",
+  "nombre": "Sony Accesorio Pro 6",
+  "marca": "Sony",
+  "categoria": "Accesorios",
+  "precio": 215001,
+  "stock": 10,
+  "stockMinimo": 10,
+  "proveedor": "Electrónica Paisa SAS",
+  "garantia": "3 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b11d"
+  },
+  "codigo": "TECH-0007",
+  "nombre": "LG Celulare Pro 7",
+  "marca": "LG",
+  "categoria": "Celulares",
+  "precio": 658260,
+  "stock": 71,
+  "stockMinimo": 10,
+  "proveedor": "Distribuidora Digital",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b11e"
+  },
+  "codigo": "TECH-0008",
+  "nombre": "Asus Portátile Pro 8",
+  "marca": "Asus",
+  "categoria": "Portátiles",
+  "precio": 4723237,
+  "stock": 81,
+  "stockMinimo": 10,
+  "proveedor": "Importec Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b11f"
+  },
+  "codigo": "TECH-0009",
+  "nombre": "Huawei Tablet Pro 9",
+  "marca": "Huawei",
+  "categoria": "Tablets",
+  "precio": 1155740,
+  "stock": 8,
+  "stockMinimo": 10,
+  "proveedor": "Tecnología Express",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b120"
+  },
+  "codigo": "TECH-0010",
+  "nombre": "Samsung Audífono Pro 10",
+  "marca": "Samsung",
+  "categoria": "Audífonos",
+  "precio": 523984,
+  "stock": 13,
+  "stockMinimo": 10,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b121"
+  },
+  "codigo": "TECH-0011",
+  "nombre": "Apple Smartwatche Pro 11",
+  "marca": "Apple",
+  "categoria": "Smartwatches",
+  "precio": 623076,
+  "stock": 49,
+  "stockMinimo": 10,
+  "proveedor": "Electrónica Paisa SAS",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b123"
+  },
+  "codigo": "TECH-0013",
+  "nombre": "HP Accesorio Pro 13",
+  "marca": "HP",
+  "categoria": "Accesorios",
+  "precio": 225415,
+  "stock": 25,
+  "stockMinimo": 10,
+  "proveedor": "Importec Colombia",
+  "garantia": "3 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b124"
+  },
+  "codigo": "TECH-0014",
+  "nombre": "Dell Celulare Pro 14",
+  "marca": "Dell",
+  "categoria": "Celulares",
+  "precio": 2405054,
+  "stock": 65,
+  "stockMinimo": 10,
+  "proveedor": "Tecnología Express",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b125"
+  },
+  "codigo": "TECH-0015",
+  "nombre": "Xiaomi Portátile Pro 15",
+  "marca": "Xiaomi",
+  "categoria": "Portátiles",
+  "precio": 1523689,
+  "stock": 40,
+  "stockMinimo": 10,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "agotado"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b126"
+  },
+  "codigo": "TECH-0016",
+  "nombre": "Sony Tablet Pro 16",
+  "marca": "Sony",
+  "categoria": "Tablets",
+  "precio": 801544,
+  "stock": 30,
+  "stockMinimo": 10,
+  "proveedor": "Electrónica Paisa SAS",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b127"
+  },
+  "codigo": "TECH-0017",
+  "nombre": "LG Audífono Pro 17",
+  "marca": "LG",
+  "categoria": "Audífonos",
+  "precio": 387876,
+  "stock": 80,
+  "stockMinimo": 10,
+  "proveedor": "Distribuidora Digital",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b128"
+  },
+  "codigo": "TECH-0018",
+  "nombre": "Asus Smartwatche Pro 18",
+  "marca": "Asus",
+  "categoria": "Smartwatches",
+  "precio": 1098011,
+  "stock": 66,
+  "stockMinimo": 10,
+  "proveedor": "Importec Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b129"
+  },
+  "codigo": "TECH-0019",
+  "nombre": "Huawei Cámara Pro 19",
+  "marca": "Huawei",
+  "categoria": "Cámaras",
+  "precio": 3139032,
+  "stock": 12,
+  "stockMinimo": 10,
+  "proveedor": "Tecnología Express",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b12a"
+  },
+  "codigo": "TECH-0020",
+  "nombre": "Samsung Accesorio Pro 20",
+  "marca": "Samsung",
+  "categoria": "Accesorios",
+  "precio": 213310,
+  "stock": 74,
+  "stockMinimo": 10,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "3 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b12b"
+  },
+  "codigo": "TECH-0021",
+  "nombre": "Apple Celulare Pro 21",
+  "marca": "Apple",
+  "categoria": "Celulares",
+  "precio": 1540669,
+  "stock": 14,
+  "stockMinimo": 10,
+  "proveedor": "Electrónica Paisa SAS",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b12d"
+  },
+  "codigo": "TECH-0023",
+  "nombre": "HP Tablet Pro 23",
+  "marca": "HP",
+  "categoria": "Tablets",
+  "precio": 1543988,
+  "stock": 10,
+  "stockMinimo": 10,
+  "proveedor": "Importec Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b12e"
+  },
+  "codigo": "TECH-0024",
+  "nombre": "Dell Audífono Pro 24",
+  "marca": "Dell",
+  "categoria": "Audífonos",
+  "precio": 382603,
+  "stock": 60,
+  "stockMinimo": 10,
+  "proveedor": "Tecnología Express",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b12f"
+  },
+  "codigo": "TECH-0025",
+  "nombre": "Xiaomi Smartwatche Pro 25",
+  "marca": "Xiaomi",
+  "categoria": "Smartwatches",
+  "precio": 717830,
+  "stock": 49,
+  "stockMinimo": 10,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b130"
+  },
+  "codigo": "TECH-0026",
+  "nombre": "Sony Cámara Pro 26",
+  "marca": "Sony",
+  "categoria": "Cámaras",
+  "precio": 1997328,
+  "stock": 58,
+  "stockMinimo": 10,
+  "proveedor": "Electrónica Paisa SAS",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b131"
+  },
+  "codigo": "TECH-0027",
+  "nombre": "LG Accesorio Pro 27",
+  "marca": "LG",
+  "categoria": "Accesorios",
+  "precio": 108517,
+  "stock": 61,
+  "stockMinimo": 10,
+  "proveedor": "Distribuidora Digital",
+  "garantia": "3 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b132"
+  },
+  "codigo": "TECH-0028",
+  "nombre": "Asus Celulare Pro 28",
+  "marca": "Asus",
+  "categoria": "Celulares",
+  "precio": 2051500,
+  "stock": 56,
+  "stockMinimo": 10,
+  "proveedor": "Importec Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b133"
+  },
+  "codigo": "TECH-0029",
+  "nombre": "Huawei Portátile Pro 29",
+  "marca": "Huawei",
+  "categoria": "Portátiles",
+  "precio": 5038497,
+  "stock": 16,
+  "stockMinimo": 10,
+  "proveedor": "Tecnología Express",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b134"
+  },
+  "codigo": "TECH-0030",
+  "nombre": "Samsung Tablet Pro 30",
+  "marca": "Samsung",
+  "categoria": "Tablets",
+  "precio": 1493633,
+  "stock": 84,
+  "stockMinimo": 10,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "agotado"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b135"
+  },
+  "codigo": "TECH-0031",
+  "nombre": "Apple Audífono Pro 31",
+  "marca": "Apple",
+  "categoria": "Audífonos",
+  "precio": 407617,
+  "stock": 83,
+  "stockMinimo": 10,
+  "proveedor": "Electrónica Paisa SAS",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b137"
+  },
+  "codigo": "TECH-0033",
+  "nombre": "HP Cámara Pro 33",
+  "marca": "HP",
+  "categoria": "Cámaras",
+  "precio": 1470452,
+  "stock": 59,
+  "stockMinimo": 10,
+  "proveedor": "Importec Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b138"
+  },
+  "codigo": "TECH-0034",
+  "nombre": "Dell Accesorio Pro 34",
+  "marca": "Dell",
+  "categoria": "Accesorios",
+  "precio": 115726,
+  "stock": 17,
+  "stockMinimo": 10,
+  "proveedor": "Tecnología Express",
+  "garantia": "3 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b139"
+  },
+  "codigo": "TECH-0035",
+  "nombre": "Xiaomi Celulare Pro 35",
+  "marca": "Xiaomi",
+  "categoria": "Celulares",
+  "precio": 1322733,
+  "stock": 60,
+  "stockMinimo": 10,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b13a"
+  },
+  "codigo": "TECH-0036",
+  "nombre": "Sony Portátile Pro 36",
+  "marca": "Sony",
+  "categoria": "Portátiles",
+  "precio": 3472358,
+  "stock": 63,
+  "stockMinimo": 10,
+  "proveedor": "Electrónica Paisa SAS",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b13b"
+  },
+  "codigo": "TECH-0037",
+  "nombre": "LG Tablet Pro 37",
+  "marca": "LG",
+  "categoria": "Tablets",
+  "precio": 779370,
+  "stock": 73,
+  "stockMinimo": 10,
+  "proveedor": "Distribuidora Digital",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b13c"
+  },
+  "codigo": "TECH-0038",
+  "nombre": "Asus Audífono Pro 38",
+  "marca": "Asus",
+  "categoria": "Audífonos",
+  "precio": 560672,
+  "stock": 71,
+  "stockMinimo": 10,
+  "proveedor": "Importec Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b13d"
+  },
+  "codigo": "TECH-0039",
+  "nombre": "Huawei Smartwatche Pro 39",
+  "marca": "Huawei",
+  "categoria": "Smartwatches",
+  "precio": 561645,
+  "stock": 17,
+  "stockMinimo": 10,
+  "proveedor": "Tecnología Express",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b13e"
+  },
+  "codigo": "TECH-0040",
+  "nombre": "Samsung Cámara Pro 40",
+  "marca": "Samsung",
+  "categoria": "Cámaras",
+  "precio": 942290,
+  "stock": 69,
+  "stockMinimo": 10,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b13f"
+  },
+  "codigo": "TECH-0041",
+  "nombre": "Apple Accesorio Pro 41",
+  "marca": "Apple",
+  "categoria": "Accesorios",
+  "precio": 53998,
+  "stock": 66,
+  "stockMinimo": 10,
+  "proveedor": "Electrónica Paisa SAS",
+  "garantia": "3 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b141"
+  },
+  "codigo": "TECH-0043",
+  "nombre": "HP Portátile Pro 43",
+  "marca": "HP",
+  "categoria": "Portátiles",
+  "precio": 4471271,
+  "stock": 64,
+  "stockMinimo": 10,
+  "proveedor": "Importec Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b142"
+  },
+  "codigo": "TECH-0044",
+  "nombre": "Dell Tablet Pro 44",
+  "marca": "Dell",
+  "categoria": "Tablets",
+  "precio": 530111,
+  "stock": 18,
+  "stockMinimo": 10,
+  "proveedor": "Tecnología Express",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b143"
+  },
+  "codigo": "TECH-0045",
+  "nombre": "Xiaomi Audífono Pro 45",
+  "marca": "Xiaomi",
+  "categoria": "Audífonos",
+  "precio": 565900,
+  "stock": 50,
+  "stockMinimo": 10,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "agotado"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b144"
+  },
+  "codigo": "TECH-0046",
+  "nombre": "Sony Smartwatche Pro 46",
+  "marca": "Sony",
+  "categoria": "Smartwatches",
+  "precio": 1074183,
+  "stock": 32,
+  "stockMinimo": 10,
+  "proveedor": "Electrónica Paisa SAS",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b145"
+  },
+  "codigo": "TECH-0047",
+  "nombre": "LG Cámara Pro 47",
+  "marca": "LG",
+  "categoria": "Cámaras",
+  "precio": 1382156,
+  "stock": 36,
+  "stockMinimo": 10,
+  "proveedor": "Distribuidora Digital",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b146"
+  },
+  "codigo": "TECH-0048",
+  "nombre": "Asus Accesorio Pro 48",
+  "marca": "Asus",
+  "categoria": "Accesorios",
+  "precio": 181108,
+  "stock": 74,
+  "stockMinimo": 10,
+  "proveedor": "Importec Colombia",
+  "garantia": "3 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b147"
+  },
+  "codigo": "TECH-0049",
+  "nombre": "Huawei Celulare Pro 49",
+  "marca": "Huawei",
+  "categoria": "Celulares",
+  "precio": 2662499,
+  "stock": 26,
+  "stockMinimo": 10,
+  "proveedor": "Tecnología Express",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b148"
+  },
+  "codigo": "TECH-0050",
+  "nombre": "Samsung Portátile Pro 50",
+  "marca": "Samsung",
+  "categoria": "Portátiles",
+  "precio": 4049034,
+  "stock": 44,
+  "stockMinimo": 10,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b149"
+  },
+  "codigo": "TECH-0051",
+  "nombre": "Apple Tablet Pro 51",
+  "marca": "Apple",
+  "categoria": "Tablets",
+  "precio": 1260585,
+  "stock": 50,
+  "stockMinimo": 10,
+  "proveedor": "Electrónica Paisa SAS",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b14b"
+  },
+  "codigo": "TECH-0053",
+  "nombre": "HP Smartwatche Pro 53",
+  "marca": "HP",
+  "categoria": "Smartwatches",
+  "precio": 1356971,
+  "stock": 20,
+  "stockMinimo": 10,
+  "proveedor": "Importec Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b14c"
+  },
+  "codigo": "TECH-0054",
+  "nombre": "Dell Cámara Pro 54",
+  "marca": "Dell",
+  "categoria": "Cámaras",
+  "precio": 3247626,
+  "stock": 46,
+  "stockMinimo": 10,
+  "proveedor": "Tecnología Express",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b14d"
+  },
+  "codigo": "TECH-0055",
+  "nombre": "Xiaomi Accesorio Pro 55",
+  "marca": "Xiaomi",
+  "categoria": "Accesorios",
+  "precio": 34305,
+  "stock": 73,
+  "stockMinimo": 10,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "3 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b14e"
+  },
+  "codigo": "TECH-0056",
+  "nombre": "Sony Celulare Pro 56",
+  "marca": "Sony",
+  "categoria": "Celulares",
+  "precio": 2561045,
+  "stock": 41,
+  "stockMinimo": 10,
+  "proveedor": "Electrónica Paisa SAS",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b14f"
+  },
+  "codigo": "TECH-0057",
+  "nombre": "LG Portátile Pro 57",
+  "marca": "LG",
+  "categoria": "Portátiles",
+  "precio": 5407584,
+  "stock": 83,
+  "stockMinimo": 10,
+  "proveedor": "Distribuidora Digital",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b150"
+  },
+  "codigo": "TECH-0058",
+  "nombre": "Asus Tablet Pro 58",
+  "marca": "Asus",
+  "categoria": "Tablets",
+  "precio": 729968,
+  "stock": 43,
+  "stockMinimo": 10,
+  "proveedor": "Importec Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b151"
+  },
+  "codigo": "TECH-0059",
+  "nombre": "Huawei Audífono Pro 59",
+  "marca": "Huawei",
+  "categoria": "Audífonos",
+  "precio": 455052,
+  "stock": 51,
+  "stockMinimo": 10,
+  "proveedor": "Tecnología Express",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b152"
+  },
+  "codigo": "TECH-0060",
+  "nombre": "Samsung Smartwatche Pro 60",
+  "marca": "Samsung",
+  "categoria": "Smartwatches",
+  "precio": 787711,
+  "stock": 84,
+  "stockMinimo": 10,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "agotado"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b153"
+  },
+  "codigo": "TECH-0061",
+  "nombre": "Apple Cámara Pro 61",
+  "marca": "Apple",
+  "categoria": "Cámaras",
+  "precio": 3488787,
+  "stock": 65,
+  "stockMinimo": 10,
+  "proveedor": "Electrónica Paisa SAS",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b155"
+  },
+  "codigo": "TECH-0063",
+  "nombre": "HP Celulare Pro 63",
+  "marca": "HP",
+  "categoria": "Celulares",
+  "precio": 1335517,
+  "stock": 14,
+  "stockMinimo": 10,
+  "proveedor": "Importec Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b156"
+  },
+  "codigo": "TECH-0064",
+  "nombre": "Dell Portátile Pro 64",
+  "marca": "Dell",
+  "categoria": "Portátiles",
+  "precio": 2831787,
+  "stock": 63,
+  "stockMinimo": 10,
+  "proveedor": "Tecnología Express",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b157"
+  },
+  "codigo": "TECH-0065",
+  "nombre": "Xiaomi Tablet Pro 65",
+  "marca": "Xiaomi",
+  "categoria": "Tablets",
+  "precio": 446985,
+  "stock": 27,
+  "stockMinimo": 10,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b158"
+  },
+  "codigo": "TECH-0066",
+  "nombre": "Sony Audífono Pro 66",
+  "marca": "Sony",
+  "categoria": "Audífonos",
+  "precio": 408536,
+  "stock": 8,
+  "stockMinimo": 10,
+  "proveedor": "Electrónica Paisa SAS",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b159"
+  },
+  "codigo": "TECH-0067",
+  "nombre": "LG Smartwatche Pro 67",
+  "marca": "LG",
+  "categoria": "Smartwatches",
+  "precio": 1039057,
+  "stock": 33,
+  "stockMinimo": 10,
+  "proveedor": "Distribuidora Digital",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b15a"
+  },
+  "codigo": "TECH-0068",
+  "nombre": "Asus Cámara Pro 68",
+  "marca": "Asus",
+  "categoria": "Cámaras",
+  "precio": 921491,
+  "stock": 51,
+  "stockMinimo": 10,
+  "proveedor": "Importec Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b15b"
+  },
+  "codigo": "TECH-0069",
+  "nombre": "Huawei Accesorio Pro 69",
+  "marca": "Huawei",
+  "categoria": "Accesorios",
+  "precio": 221709,
+  "stock": 7,
+  "stockMinimo": 10,
+  "proveedor": "Tecnología Express",
+  "garantia": "3 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b15c"
+  },
+  "codigo": "TECH-0070",
+  "nombre": "Samsung Celulare Pro 70",
+  "marca": "Samsung",
+  "categoria": "Celulares",
+  "precio": 686460,
+  "stock": 74,
+  "stockMinimo": 10,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b15d"
+  },
+  "codigo": "TECH-0071",
+  "nombre": "Apple Portátile Pro 71",
+  "marca": "Apple",
+  "categoria": "Portátiles",
+  "precio": 4878040,
+  "stock": 75,
+  "stockMinimo": 10,
+  "proveedor": "Electrónica Paisa SAS",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b15f"
+  },
+  "codigo": "TECH-0073",
+  "nombre": "HP Audífono Pro 73",
+  "marca": "HP",
+  "categoria": "Audífonos",
+  "precio": 399879,
+  "stock": 35,
+  "stockMinimo": 10,
+  "proveedor": "Importec Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b160"
+  },
+  "codigo": "TECH-0074",
+  "nombre": "Dell Smartwatche Pro 74",
+  "marca": "Dell",
+  "categoria": "Smartwatches",
+  "precio": 1273612,
+  "stock": 56,
+  "stockMinimo": 10,
+  "proveedor": "Tecnología Express",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b161"
+  },
+  "codigo": "TECH-0075",
+  "nombre": "Xiaomi Cámara Pro 75",
+  "marca": "Xiaomi",
+  "categoria": "Cámaras",
+  "precio": 1922586,
+  "stock": 72,
+  "stockMinimo": 10,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "agotado"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b162"
+  },
+  "codigo": "TECH-0076",
+  "nombre": "Sony Accesorio Pro 76",
+  "marca": "Sony",
+  "categoria": "Accesorios",
+  "precio": 211290,
+  "stock": 72,
+  "stockMinimo": 10,
+  "proveedor": "Electrónica Paisa SAS",
+  "garantia": "3 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b163"
+  },
+  "codigo": "TECH-0077",
+  "nombre": "LG Celulare Pro 77",
+  "marca": "LG",
+  "categoria": "Celulares",
+  "precio": 853653,
+  "stock": 72,
+  "stockMinimo": 10,
+  "proveedor": "Distribuidora Digital",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b164"
+  },
+  "codigo": "TECH-0078",
+  "nombre": "Asus Portátile Pro 78",
+  "marca": "Asus",
+  "categoria": "Portátiles",
+  "precio": 4477190,
+  "stock": 56,
+  "stockMinimo": 10,
+  "proveedor": "Importec Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b165"
+  },
+  "codigo": "TECH-0079",
+  "nombre": "Huawei Tablet Pro 79",
+  "marca": "Huawei",
+  "categoria": "Tablets",
+  "precio": 804759,
+  "stock": 48,
+  "stockMinimo": 10,
+  "proveedor": "Tecnología Express",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b166"
+  },
+  "codigo": "TECH-0080",
+  "nombre": "Samsung Audífono Pro 80",
+  "marca": "Samsung",
+  "categoria": "Audífonos",
+  "precio": 432541,
+  "stock": 59,
+  "stockMinimo": 10,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b167"
+  },
+  "codigo": "TECH-0081",
+  "nombre": "Apple Smartwatche Pro 81",
+  "marca": "Apple",
+  "categoria": "Smartwatches",
+  "precio": 728526,
+  "stock": 72,
+  "stockMinimo": 10,
+  "proveedor": "Electrónica Paisa SAS",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b169"
+  },
+  "codigo": "TECH-0083",
+  "nombre": "HP Accesorio Pro 83",
+  "marca": "HP",
+  "categoria": "Accesorios",
+  "precio": 110382,
+  "stock": 19,
+  "stockMinimo": 10,
+  "proveedor": "Importec Colombia",
+  "garantia": "3 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b16a"
+  },
+  "codigo": "TECH-0084",
+  "nombre": "Dell Celulare Pro 84",
+  "marca": "Dell",
+  "categoria": "Celulares",
+  "precio": 2113625,
+  "stock": 56,
+  "stockMinimo": 10,
+  "proveedor": "Tecnología Express",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b16b"
+  },
+  "codigo": "TECH-0085",
+  "nombre": "Xiaomi Portátile Pro 85",
+  "marca": "Xiaomi",
+  "categoria": "Portátiles",
+  "precio": 3114403,
+  "stock": 31,
+  "stockMinimo": 10,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b16c"
+  },
+  "codigo": "TECH-0086",
+  "nombre": "Sony Tablet Pro 86",
+  "marca": "Sony",
+  "categoria": "Tablets",
+  "precio": 930352,
+  "stock": 50,
+  "stockMinimo": 10,
+  "proveedor": "Electrónica Paisa SAS",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b16d"
+  },
+  "codigo": "TECH-0087",
+  "nombre": "LG Audífono Pro 87",
+  "marca": "LG",
+  "categoria": "Audífonos",
+  "precio": 142465,
+  "stock": 21,
+  "stockMinimo": 10,
+  "proveedor": "Distribuidora Digital",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b16e"
+  },
+  "codigo": "TECH-0088",
+  "nombre": "Asus Smartwatche Pro 88",
+  "marca": "Asus",
+  "categoria": "Smartwatches",
+  "precio": 864523,
+  "stock": 37,
+  "stockMinimo": 10,
+  "proveedor": "Importec Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b16f"
+  },
+  "codigo": "TECH-0089",
+  "nombre": "Huawei Cámara Pro 89",
+  "marca": "Huawei",
+  "categoria": "Cámaras",
+  "precio": 2202771,
+  "stock": 47,
+  "stockMinimo": 10,
+  "proveedor": "Tecnología Express",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b170"
+  },
+  "codigo": "TECH-0090",
+  "nombre": "Samsung Accesorio Pro 90",
+  "marca": "Samsung",
+  "categoria": "Accesorios",
+  "precio": 205011,
+  "stock": 25,
+  "stockMinimo": 10,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "3 meses",
+  "estado": "agotado"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b171"
+  },
+  "codigo": "TECH-0091",
+  "nombre": "Apple Celulare Pro 91",
+  "marca": "Apple",
+  "categoria": "Celulares",
+  "precio": 1720353,
+  "stock": 22,
+  "stockMinimo": 10,
+  "proveedor": "Electrónica Paisa SAS",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b173"
+  },
+  "codigo": "TECH-0093",
+  "nombre": "HP Tablet Pro 93",
+  "marca": "HP",
+  "categoria": "Tablets",
+  "precio": 541156,
+  "stock": 30,
+  "stockMinimo": 10,
+  "proveedor": "Importec Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b174"
+  },
+  "codigo": "TECH-0094",
+  "nombre": "Dell Audífono Pro 94",
+  "marca": "Dell",
+  "categoria": "Audífonos",
+  "precio": 500495,
+  "stock": 48,
+  "stockMinimo": 10,
+  "proveedor": "Tecnología Express",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b175"
+  },
+  "codigo": "TECH-0095",
+  "nombre": "Xiaomi Smartwatche Pro 95",
+  "marca": "Xiaomi",
+  "categoria": "Smartwatches",
+  "precio": 1255189,
+  "stock": 35,
+  "stockMinimo": 10,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b176"
+  },
+  "codigo": "TECH-0096",
+  "nombre": "Sony Cámara Pro 96",
+  "marca": "Sony",
+  "categoria": "Cámaras",
+  "precio": 1018503,
+  "stock": 16,
+  "stockMinimo": 10,
+  "proveedor": "Electrónica Paisa SAS",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b177"
+  },
+  "codigo": "TECH-0097",
+  "nombre": "LG Accesorio Pro 97",
+  "marca": "LG",
+  "categoria": "Accesorios",
+  "precio": 108010,
+  "stock": 36,
+  "stockMinimo": 10,
+  "proveedor": "Distribuidora Digital",
+  "garantia": "3 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b178"
+  },
+  "codigo": "TECH-0098",
+  "nombre": "Asus Celulare Pro 98",
+  "marca": "Asus",
+  "categoria": "Celulares",
+  "precio": 2652939,
+  "stock": 38,
+  "stockMinimo": 10,
+  "proveedor": "Importec Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b179"
+  },
+  "codigo": "TECH-0099",
+  "nombre": "Huawei Portátile Pro 99",
+  "marca": "Huawei",
+  "categoria": "Portátiles",
+  "precio": 2690836,
+  "stock": 45,
+  "stockMinimo": 10,
+  "proveedor": "Tecnología Express",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b17a"
+  },
+  "codigo": "TECH-0100",
+  "nombre": "Samsung Tablet Pro 100",
+  "marca": "Samsung",
+  "categoria": "Tablets",
+  "precio": 1697340,
+  "stock": 57,
+  "stockMinimo": 10,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e4f203e4f083fbe63b1ad"
+  },
+  "codigo": "TECH-0101",
+  "nombre": "iPhone 15 Pro Max",
+  "marca": "Apple",
+  "categoria": "Celulares",
+  "precio": 6500000,
+  "stock": 20,
+  "stockMinimo": 5,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1ae"
+  },
+  "codigo": "TECH-0101",
+  "nombre": "iPhone 15 Pro Max",
+  "marca": "Apple",
+  "categoria": "Celulares",
+  "precio": 6500000,
+  "stock": 20,
+  "stockMinimo": 5,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1af"
+  },
+  "codigo": "TECH-0102",
+  "nombre": "Samsung Galaxy S24 Ultra",
+  "marca": "Samsung",
+  "categoria": "Celulares",
+  "precio": 5800000,
+  "stock": 25,
+  "stockMinimo": 5,
+  "proveedor": "Samsung Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1b0"
+  },
+  "codigo": "TECH-0103",
+  "nombre": "Xiaomi 14 Pro",
+  "marca": "Xiaomi",
+  "categoria": "Celulares",
+  "precio": 3400000,
+  "stock": 30,
+  "stockMinimo": 4,
+  "proveedor": "Xiaomi LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1b1"
+  },
+  "codigo": "TECH-0104",
+  "nombre": "Motorola Edge 50",
+  "marca": "Motorola",
+  "categoria": "Celulares",
+  "precio": 2100000,
+  "stock": 18,
+  "stockMinimo": 3,
+  "proveedor": "Motorola Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1b2"
+  },
+  "codigo": "TECH-0105",
+  "nombre": "Google Pixel 8 Pro",
+  "marca": "Google",
+  "categoria": "Celulares",
+  "precio": 5200000,
+  "stock": 10,
+  "stockMinimo": 2,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1b3"
+  },
+  "codigo": "TECH-0106",
+  "nombre": "ASUS ROG Phone 7",
+  "marca": "ASUS",
+  "categoria": "Celulares",
+  "precio": 4800000,
+  "stock": 12,
+  "stockMinimo": 3,
+  "proveedor": "ASUS LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1b4"
+  },
+  "codigo": "TECH-0107",
+  "nombre": "Huawei P60 Pro",
+  "marca": "Huawei",
+  "categoria": "Celulares",
+  "precio": 4500000,
+  "stock": 14,
+  "stockMinimo": 4,
+  "proveedor": "Huawei Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1b5"
+  },
+  "codigo": "TECH-0108",
+  "nombre": "Realme GT 5",
+  "marca": "Realme",
+  "categoria": "Celulares",
+  "precio": 2800000,
+  "stock": 20,
+  "stockMinimo": 5,
+  "proveedor": "Realme LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1b6"
+  },
+  "codigo": "TECH-0109",
+  "nombre": "OnePlus 12",
+  "marca": "OnePlus",
+  "categoria": "Celulares",
+  "precio": 3500000,
+  "stock": 15,
+  "stockMinimo": 3,
+  "proveedor": "OnePlus LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1b7"
+  },
+  "codigo": "TECH-0110",
+  "nombre": "Sony Xperia 1 V",
+  "marca": "Sony",
+  "categoria": "Celulares",
+  "precio": 5600000,
+  "stock": 8,
+  "stockMinimo": 2,
+  "proveedor": "Sony Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1b8"
+  },
+  "codigo": "TECH-0201",
+  "nombre": "Samsung Odyssey G5 32''",
+  "marca": "Samsung",
+  "categoria": "Monitores",
+  "precio": 1500000,
+  "stock": 10,
+  "stockMinimo": 2,
+  "proveedor": "Samsung Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1b9"
+  },
+  "codigo": "TECH-0202",
+  "nombre": "LG UltraGear 27'' 144Hz",
+  "marca": "LG",
+  "categoria": "Monitores",
+  "precio": 1200000,
+  "stock": 12,
+  "stockMinimo": 3,
+  "proveedor": "LG Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1ba"
+  },
+  "codigo": "TECH-0203",
+  "nombre": "AOC 24G2 24''",
+  "marca": "AOC",
+  "categoria": "Monitores",
+  "precio": 900000,
+  "stock": 18,
+  "stockMinimo": 4,
+  "proveedor": "AOC LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1bb"
+  },
+  "codigo": "TECH-0204",
+  "nombre": "ASUS TUF Gaming 27''",
+  "marca": "ASUS",
+  "categoria": "Monitores",
+  "precio": 1300000,
+  "stock": 9,
+  "stockMinimo": 2,
+  "proveedor": "ASUS LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1bc"
+  },
+  "codigo": "TECH-0205",
+  "nombre": "Dell P2422H 24''",
+  "marca": "Dell",
+  "categoria": "Monitores",
+  "precio": 1100000,
+  "stock": 14,
+  "stockMinimo": 3,
+  "proveedor": "Dell Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1bd"
+  },
+  "codigo": "TECH-0301",
+  "nombre": "HP Pavilion Gaming Ryzen 5",
+  "marca": "HP",
+  "categoria": "Computadores",
+  "precio": 3200000,
+  "stock": 8,
+  "stockMinimo": 2,
+  "proveedor": "HP Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1be"
+  },
+  "codigo": "TECH-0302",
+  "nombre": "Lenovo ThinkCentre i5",
+  "marca": "Lenovo",
+  "categoria": "Computadores",
+  "precio": 2900000,
+  "stock": 10,
+  "stockMinimo": 2,
+  "proveedor": "Lenovo LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1bf"
+  },
+  "codigo": "TECH-0303",
+  "nombre": "Dell OptiPlex 7000 i7",
+  "marca": "Dell",
+  "categoria": "Computadores",
+  "precio": 4100000,
+  "stock": 6,
+  "stockMinimo": 1,
+  "proveedor": "Dell Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1c0"
+  },
+  "codigo": "TECH-0304",
+  "nombre": "Apple iMac M3 24''",
+  "marca": "Apple",
+  "categoria": "Computadores",
+  "precio": 7800000,
+  "stock": 4,
+  "stockMinimo": 1,
+  "proveedor": "Apple LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1c1"
+  },
+  "codigo": "TECH-0305",
+  "nombre": "ASUS ExpertCenter i5",
+  "marca": "ASUS",
+  "categoria": "Computadores",
+  "precio": 2700000,
+  "stock": 12,
+  "stockMinimo": 3,
+  "proveedor": "ASUS LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1c2"
+  },
+  "codigo": "TECH-0401",
+  "nombre": "MacBook Pro M3 14''",
+  "marca": "Apple",
+  "categoria": "Laptops",
+  "precio": 9000000,
+  "stock": 5,
+  "stockMinimo": 1,
+  "proveedor": "Apple LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1c3"
+  },
+  "codigo": "TECH-0402",
+  "nombre": "ASUS VivoBook 15",
+  "marca": "ASUS",
+  "categoria": "Laptops",
+  "precio": 2500000,
+  "stock": 15,
+  "stockMinimo": 3,
+  "proveedor": "ASUS LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1c4"
+  },
+  "codigo": "TECH-0403",
+  "nombre": "Dell XPS 13",
+  "marca": "Dell",
+  "categoria": "Laptops",
+  "precio": 6200000,
+  "stock": 6,
+  "stockMinimo": 1,
+  "proveedor": "Dell Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1c5"
+  },
+  "codigo": "TECH-0404",
+  "nombre": "HP Envy x360",
+  "marca": "HP",
+  "categoria": "Laptops",
+  "precio": 4800000,
+  "stock": 9,
+  "stockMinimo": 2,
+  "proveedor": "HP Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1c6"
+  },
+  "codigo": "TECH-0405",
+  "nombre": "Lenovo Legion 5 Ryzen 7",
+  "marca": "Lenovo",
+  "categoria": "Laptops",
+  "precio": 5200000,
+  "stock": 7,
+  "stockMinimo": 2,
+  "proveedor": "Lenovo LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1c7"
+  },
+  "codigo": "TECH-0501",
+  "nombre": "iPad Pro 12.9 M2",
+  "marca": "Apple",
+  "categoria": "Tablets",
+  "precio": 6500000,
+  "stock": 12,
+  "stockMinimo": 3,
+  "proveedor": "Apple LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1c8"
+  },
+  "codigo": "TECH-0502",
+  "nombre": "Samsung Galaxy Tab S9",
+  "marca": "Samsung",
+  "categoria": "Tablets",
+  "precio": 3800000,
+  "stock": 14,
+  "stockMinimo": 3,
+  "proveedor": "Samsung Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1c9"
+  },
+  "codigo": "TECH-0503",
+  "nombre": "Xiaomi Pad 6",
+  "marca": "Xiaomi",
+  "categoria": "Tablets",
+  "precio": 1800000,
+  "stock": 20,
+  "stockMinimo": 4,
+  "proveedor": "Xiaomi LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1ca"
+  },
+  "codigo": "TECH-0504",
+  "nombre": "Lenovo Tab P12",
+  "marca": "Lenovo",
+  "categoria": "Tablets",
+  "precio": 2200000,
+  "stock": 16,
+  "stockMinimo": 3,
+  "proveedor": "Lenovo LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1cb"
+  },
+  "codigo": "TECH-0505",
+  "nombre": "Huawei MatePad 11",
+  "marca": "Huawei",
+  "categoria": "Tablets",
+  "precio": 1900000,
+  "stock": 17,
+  "stockMinimo": 3,
+  "proveedor": "Huawei Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1cc"
+  },
+  "codigo": "TECH-0601",
+  "nombre": "Corsair K70 RGB",
+  "marca": "Corsair",
+  "categoria": "Accesorios",
+  "precio": 650000,
+  "stock": 10,
+  "stockMinimo": 2,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1cd"
+  },
+  "codigo": "TECH-0602",
+  "nombre": "Logitech MX Master 3S",
+  "marca": "Logitech",
+  "categoria": "Accesorios",
+  "precio": 380000,
+  "stock": 13,
+  "stockMinimo": 2,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1ce"
+  },
+  "codigo": "TECH-0603",
+  "nombre": "Razer DeathAdder V3",
+  "marca": "Razer",
+  "categoria": "Accesorios",
+  "precio": 310000,
+  "stock": 16,
+  "stockMinimo": 2,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1cf"
+  },
+  "codigo": "TECH-0604",
+  "nombre": "HyperX Cloud Alpha",
+  "marca": "HyperX",
+  "categoria": "Audio",
+  "precio": 420000,
+  "stock": 19,
+  "stockMinimo": 2,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1d0"
+  },
+  "codigo": "TECH-0605",
+  "nombre": "Sony WH-1000XM5",
+  "marca": "Sony",
+  "categoria": "Audio",
+  "precio": 1450000,
+  "stock": 22,
+  "stockMinimo": 2,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1d1"
+  },
+  "codigo": "TECH-0606",
+  "nombre": "JBL Flip 6",
+  "marca": "JBL",
+  "categoria": "Audio",
+  "precio": 480000,
+  "stock": 10,
+  "stockMinimo": 2,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1d2"
+  },
+  "codigo": "TECH-0607",
+  "nombre": "TP-Link Archer AX73",
+  "marca": "TP-Link",
+  "categoria": "Redes",
+  "precio": 520000,
+  "stock": 13,
+  "stockMinimo": 2,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1d3"
+  },
+  "codigo": "TECH-0608",
+  "nombre": "Ubiquiti UniFi AP AC Lite",
+  "marca": "Ubiquiti",
+  "categoria": "Redes",
+  "precio": 680000,
+  "stock": 16,
+  "stockMinimo": 2,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1d4"
+  },
+  "codigo": "TECH-0609",
+  "nombre": "Google Nest Mini",
+  "marca": "Google",
+  "categoria": "Gadgets",
+  "precio": 250000,
+  "stock": 19,
+  "stockMinimo": 2,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1d5"
+  },
+  "codigo": "TECH-0610",
+  "nombre": "Amazon Echo Dot 5",
+  "marca": "Amazon",
+  "categoria": "Gadgets",
+  "precio": 240000,
+  "stock": 22,
+  "stockMinimo": 2,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1d6"
+  },
+  "codigo": "TECH-0611",
+  "nombre": "Xiaomi Smart Band 8",
+  "marca": "Xiaomi",
+  "categoria": "Gadgets",
+  "precio": 190000,
+  "stock": 10,
+  "stockMinimo": 2,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1d7"
+  },
+  "codigo": "TECH-0612",
+  "nombre": "PlayStation 5 Slim",
+  "marca": "Sony",
+  "categoria": "Gaming",
+  "precio": 3200000,
+  "stock": 13,
+  "stockMinimo": 2,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1d8"
+  },
+  "codigo": "TECH-0613",
+  "nombre": "Xbox Series X",
+  "marca": "Microsoft",
+  "categoria": "Gaming",
+  "precio": 2800000,
+  "stock": 16,
+  "stockMinimo": 2,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1d9"
+  },
+  "codigo": "TECH-0614",
+  "nombre": "Nintendo Switch OLED",
+  "marca": "Nintendo",
+  "categoria": "Gaming",
+  "precio": 1800000,
+  "stock": 19,
+  "stockMinimo": 2,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1da"
+  },
+  "codigo": "TECH-0801",
+  "nombre": "Gadget Pro 1",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 150000,
+  "stock": 5,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1db"
+  },
+  "codigo": "TECH-0802",
+  "nombre": "Gadget Pro 2",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 155000,
+  "stock": 6,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1dc"
+  },
+  "codigo": "TECH-0803",
+  "nombre": "Gadget Pro 3",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 160000,
+  "stock": 7,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1dd"
+  },
+  "codigo": "TECH-0804",
+  "nombre": "Gadget Pro 4",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 165000,
+  "stock": 8,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1de"
+  },
+  "codigo": "TECH-0805",
+  "nombre": "Gadget Pro 5",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 170000,
+  "stock": 9,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1df"
+  },
+  "codigo": "TECH-0806",
+  "nombre": "Gadget Pro 6",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 175000,
+  "stock": 10,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1e0"
+  },
+  "codigo": "TECH-0807",
+  "nombre": "Gadget Pro 7",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 180000,
+  "stock": 11,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1e1"
+  },
+  "codigo": "TECH-0808",
+  "nombre": "Gadget Pro 8",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 185000,
+  "stock": 5,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1e2"
+  },
+  "codigo": "TECH-0809",
+  "nombre": "Gadget Pro 9",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 190000,
+  "stock": 6,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1e3"
+  },
+  "codigo": "TECH-0810",
+  "nombre": "Gadget Pro 10",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 195000,
+  "stock": 7,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1e4"
+  },
+  "codigo": "TECH-0811",
+  "nombre": "Gadget Pro 11",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 200000,
+  "stock": 8,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1e5"
+  },
+  "codigo": "TECH-0812",
+  "nombre": "Gadget Pro 12",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 205000,
+  "stock": 9,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1e6"
+  },
+  "codigo": "TECH-0813",
+  "nombre": "Gadget Pro 13",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 210000,
+  "stock": 10,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1e7"
+  },
+  "codigo": "TECH-0814",
+  "nombre": "Gadget Pro 14",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 215000,
+  "stock": 11,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1e8"
+  },
+  "codigo": "TECH-0815",
+  "nombre": "Gadget Pro 15",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 220000,
+  "stock": 5,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1e9"
+  },
+  "codigo": "TECH-0816",
+  "nombre": "Gadget Pro 16",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 225000,
+  "stock": 6,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1ea"
+  },
+  "codigo": "TECH-0817",
+  "nombre": "Gadget Pro 17",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 230000,
+  "stock": 7,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1eb"
+  },
+  "codigo": "TECH-0818",
+  "nombre": "Gadget Pro 18",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 235000,
+  "stock": 8,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1ec"
+  },
+  "codigo": "TECH-0819",
+  "nombre": "Gadget Pro 19",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 240000,
+  "stock": 9,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1ed"
+  },
+  "codigo": "TECH-0820",
+  "nombre": "Gadget Pro 20",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 245000,
+  "stock": 10,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1ee"
+  },
+  "codigo": "TECH-0821",
+  "nombre": "Gadget Pro 21",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 250000,
+  "stock": 11,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1ef"
+  },
+  "codigo": "TECH-0822",
+  "nombre": "Gadget Pro 22",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 255000,
+  "stock": 5,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1f0"
+  },
+  "codigo": "TECH-0823",
+  "nombre": "Gadget Pro 23",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 260000,
+  "stock": 6,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1f1"
+  },
+  "codigo": "TECH-0824",
+  "nombre": "Gadget Pro 24",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 265000,
+  "stock": 7,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1f2"
+  },
+  "codigo": "TECH-0825",
+  "nombre": "Gadget Pro 25",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 270000,
+  "stock": 8,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1f3"
+  },
+  "codigo": "TECH-0826",
+  "nombre": "Gadget Pro 26",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 275000,
+  "stock": 9,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1f4"
+  },
+  "codigo": "TECH-0827",
+  "nombre": "Gadget Pro 27",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 280000,
+  "stock": 10,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1f5"
+  },
+  "codigo": "TECH-0828",
+  "nombre": "Gadget Pro 28",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 285000,
+  "stock": 11,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1f6"
+  },
+  "codigo": "TECH-0829",
+  "nombre": "Gadget Pro 29",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 290000,
+  "stock": 5,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1f7"
+  },
+  "codigo": "TECH-0830",
+  "nombre": "Gadget Pro 30",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 295000,
+  "stock": 6,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1f8"
+  },
+  "codigo": "TECH-0831",
+  "nombre": "Gadget Pro 31",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 300000,
+  "stock": 7,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1f9"
+  },
+  "codigo": "TECH-0832",
+  "nombre": "Gadget Pro 32",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 305000,
+  "stock": 8,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1fa"
+  },
+  "codigo": "TECH-0833",
+  "nombre": "Gadget Pro 33",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 310000,
+  "stock": 9,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1fb"
+  },
+  "codigo": "TECH-0834",
+  "nombre": "Gadget Pro 34",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 315000,
+  "stock": 10,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1fc"
+  },
+  "codigo": "TECH-0835",
+  "nombre": "Gadget Pro 35",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 320000,
+  "stock": 11,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1fd"
+  },
+  "codigo": "TECH-0836",
+  "nombre": "Gadget Pro 36",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 325000,
+  "stock": 5,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1fe"
+  },
+  "codigo": "TECH-0837",
+  "nombre": "Gadget Pro 37",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 330000,
+  "stock": 6,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b1ff"
+  },
+  "codigo": "TECH-0838",
+  "nombre": "Gadget Pro 38",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 335000,
+  "stock": 7,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b200"
+  },
+  "codigo": "TECH-0839",
+  "nombre": "Gadget Pro 39",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 340000,
+  "stock": 8,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b201"
+  },
+  "codigo": "TECH-0840",
+  "nombre": "Gadget Pro 40",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 345000,
+  "stock": 9,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b202"
+  },
+  "codigo": "TECH-0841",
+  "nombre": "Gadget Pro 41",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 350000,
+  "stock": 10,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b203"
+  },
+  "codigo": "TECH-0842",
+  "nombre": "Gadget Pro 42",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 355000,
+  "stock": 11,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b204"
+  },
+  "codigo": "TECH-0843",
+  "nombre": "Gadget Pro 43",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 360000,
+  "stock": 5,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b205"
+  },
+  "codigo": "TECH-0844",
+  "nombre": "Gadget Pro 44",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 365000,
+  "stock": 6,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e55bb3e4f083fbe63b206"
+  },
+  "codigo": "TECH-0845",
+  "nombre": "Gadget Pro 45",
+  "marca": "GenTech",
+  "categoria": "Gadgets",
+  "precio": 370000,
+  "stock": 7,
+  "stockMinimo": 2,
+  "proveedor": "GenTech Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b207"
+  },
+  "codigo": "TECH-0901",
+  "nombre": "Humidificador Ultrasónico 3L",
+  "marca": "Philips",
+  "categoria": "Humidificadores",
+  "precio": 160000,
+  "stock": 18,
+  "stockMinimo": 3,
+  "proveedor": "Philips Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b208"
+  },
+  "codigo": "TECH-0902",
+  "nombre": "Humidificador Aroma LED 2L",
+  "marca": "Xiaomi",
+  "categoria": "Humidificadores",
+  "precio": 120000,
+  "stock": 25,
+  "stockMinimo": 4,
+  "proveedor": "Xiaomi LATAM",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b209"
+  },
+  "codigo": "TECH-0903",
+  "nombre": "Humidificador Smart Control WiFi",
+  "marca": "Honeywell",
+  "categoria": "Humidificadores",
+  "precio": 240000,
+  "stock": 12,
+  "stockMinimo": 2,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "6 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b20a"
+  },
+  "codigo": "TECH-0904",
+  "nombre": "Teclado Mecánico RGB K552",
+  "marca": "Redragon",
+  "categoria": "Teclados",
+  "precio": 180000,
+  "stock": 20,
+  "stockMinimo": 3,
+  "proveedor": "Redragon LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b20b"
+  },
+  "codigo": "TECH-0905",
+  "nombre": "Teclado Inalámbrico K380",
+  "marca": "Logitech",
+  "categoria": "Teclados",
+  "precio": 150000,
+  "stock": 30,
+  "stockMinimo": 5,
+  "proveedor": "Logitech Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b20c"
+  },
+  "codigo": "TECH-0906",
+  "nombre": "Teclado Mecánico G915 TKL",
+  "marca": "Logitech",
+  "categoria": "Teclados",
+  "precio": 620000,
+  "stock": 10,
+  "stockMinimo": 2,
+  "proveedor": "Logitech Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b20d"
+  },
+  "codigo": "TECH-0907",
+  "nombre": "Impresora HP Ink Tank 415",
+  "marca": "HP",
+  "categoria": "Impresoras",
+  "precio": 720000,
+  "stock": 14,
+  "stockMinimo": 3,
+  "proveedor": "HP Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b20e"
+  },
+  "codigo": "TECH-0908",
+  "nombre": "Canon G3160 Multifuncional",
+  "marca": "Canon",
+  "categoria": "Impresoras",
+  "precio": 780000,
+  "stock": 11,
+  "stockMinimo": 2,
+  "proveedor": "Canon LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b20f"
+  },
+  "codigo": "TECH-0909",
+  "nombre": "Epson EcoTank L3250",
+  "marca": "Epson",
+  "categoria": "Impresoras",
+  "precio": 890000,
+  "stock": 9,
+  "stockMinimo": 2,
+  "proveedor": "Epson Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b210"
+  },
+  "codigo": "TECH-0910",
+  "nombre": "Scanner Epson V19",
+  "marca": "Epson",
+  "categoria": "Scanners",
+  "precio": 430000,
+  "stock": 8,
+  "stockMinimo": 2,
+  "proveedor": "Epson Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b211"
+  },
+  "codigo": "TECH-0911",
+  "nombre": "Scanner Canon LiDE 300",
+  "marca": "Canon",
+  "categoria": "Scanners",
+  "precio": 390000,
+  "stock": 10,
+  "stockMinimo": 2,
+  "proveedor": "Canon LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b212"
+  },
+  "codigo": "TECH-0912",
+  "nombre": "Scanner Brother ADS-1200",
+  "marca": "Brother",
+  "categoria": "Scanners",
+  "precio": 550000,
+  "stock": 6,
+  "stockMinimo": 1,
+  "proveedor": "Brother Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b213"
+  },
+  "codigo": "TECH-0913",
+  "nombre": "UPS APC 650VA",
+  "marca": "APC",
+  "categoria": "UPS",
+  "precio": 360000,
+  "stock": 14,
+  "stockMinimo": 3,
+  "proveedor": "APC LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b214"
+  },
+  "codigo": "TECH-0914",
+  "nombre": "UPS Forza 1500VA",
+  "marca": "Forza",
+  "categoria": "UPS",
+  "precio": 590000,
+  "stock": 10,
+  "stockMinimo": 2,
+  "proveedor": "Forza Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b215"
+  },
+  "codigo": "TECH-0915",
+  "nombre": "UPS Tripp Lite 1000VA",
+  "marca": "Tripp Lite",
+  "categoria": "UPS",
+  "precio": 520000,
+  "stock": 8,
+  "stockMinimo": 2,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b216"
+  },
+  "codigo": "TECH-0916",
+  "nombre": "Logitech C920 HD Pro",
+  "marca": "Logitech",
+  "categoria": "Webcams",
+  "precio": 320000,
+  "stock": 22,
+  "stockMinimo": 4,
+  "proveedor": "Logitech Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b217"
+  },
+  "codigo": "TECH-0917",
+  "nombre": "Microsoft LifeCam HD-3000",
+  "marca": "Microsoft",
+  "categoria": "Webcams",
+  "precio": 180000,
+  "stock": 18,
+  "stockMinimo": 3,
+  "proveedor": "Microsoft Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b218"
+  },
+  "codigo": "TECH-0918",
+  "nombre": "Razer Kiyo Streaming Cam",
+  "marca": "Razer",
+  "categoria": "Webcams",
+  "precio": 410000,
+  "stock": 9,
+  "stockMinimo": 2,
+  "proveedor": "Razer LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b219"
+  },
+  "codigo": "TECH-0919",
+  "nombre": "SSD Kingston NV2 1TB",
+  "marca": "Kingston",
+  "categoria": "Almacenamiento",
+  "precio": 260000,
+  "stock": 30,
+  "stockMinimo": 4,
+  "proveedor": "Kingston LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b21a"
+  },
+  "codigo": "TECH-0920",
+  "nombre": "SSD Samsung 980 Pro 1TB",
+  "marca": "Samsung",
+  "categoria": "Almacenamiento",
+  "precio": 480000,
+  "stock": 16,
+  "stockMinimo": 3,
+  "proveedor": "Samsung Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b21b"
+  },
+  "codigo": "TECH-0921",
+  "nombre": "HDD Seagate Barracuda 2TB",
+  "marca": "Seagate",
+  "categoria": "Almacenamiento",
+  "precio": 260000,
+  "stock": 25,
+  "stockMinimo": 4,
+  "proveedor": "Seagate LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b21c"
+  },
+  "codigo": "TECH-0922",
+  "nombre": "Corsair RM750x 80+ Gold",
+  "marca": "Corsair",
+  "categoria": "Fuentes de Poder",
+  "precio": 520000,
+  "stock": 10,
+  "stockMinimo": 2,
+  "proveedor": "Corsair Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b21d"
+  },
+  "codigo": "TECH-0923",
+  "nombre": "EVGA 600W 80+ White",
+  "marca": "EVGA",
+  "categoria": "Fuentes de Poder",
+  "precio": 240000,
+  "stock": 14,
+  "stockMinimo": 3,
+  "proveedor": "EVGA LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b21e"
+  },
+  "codigo": "TECH-0924",
+  "nombre": "ASUS TUF 750W 80+ Bronze",
+  "marca": "ASUS",
+  "categoria": "Fuentes de Poder",
+  "precio": 350000,
+  "stock": 12,
+  "stockMinimo": 2,
+  "proveedor": "ASUS LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b21f"
+  },
+  "codigo": "TECH-0925",
+  "nombre": "Silla Gamer Cougar Armor One",
+  "marca": "Cougar",
+  "categoria": "Sillas Gamer",
+  "precio": 690000,
+  "stock": 8,
+  "stockMinimo": 2,
+  "proveedor": "Cougar LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b220"
+  },
+  "codigo": "TECH-0926",
+  "nombre": "Silla Gamer ThunderX3 TC3",
+  "marca": "ThunderX3",
+  "categoria": "Sillas Gamer",
+  "precio": 580000,
+  "stock": 10,
+  "stockMinimo": 2,
+  "proveedor": "Tech Import Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b221"
+  },
+  "codigo": "TECH-0927",
+  "nombre": "Silla Gamer Aerocool AC120",
+  "marca": "Aerocool",
+  "categoria": "Sillas Gamer",
+  "precio": 540000,
+  "stock": 9,
+  "stockMinimo": 2,
+  "proveedor": "Aerocool LATAM",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b222"
+  },
+  "codigo": "TECH-0928",
+  "nombre": "Parlantes Logitech Z407 Bluetooth",
+  "marca": "Logitech",
+  "categoria": "Audio",
+  "precio": 310000,
+  "stock": 15,
+  "stockMinimo": 3,
+  "proveedor": "Logitech Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b223"
+  },
+  "codigo": "TECH-0929",
+  "nombre": "Parlante Bose SoundLink Flex",
+  "marca": "Bose",
+  "categoria": "Audio",
+  "precio": 620000,
+  "stock": 10,
+  "stockMinimo": 2,
+  "proveedor": "Bose Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "691e568f3e4f083fbe63b224"
+  },
+  "codigo": "TECH-0930",
+  "nombre": "Parlante Sony XB23 Extra Bass",
+  "marca": "Sony",
+  "categoria": "Audio",
+  "precio": 420000,
+  "stock": 14,
+  "stockMinimo": 3,
+  "proveedor": "Sony Colombia",
+  "garantia": "12 meses",
+  "estado": "disponible"
+}]
