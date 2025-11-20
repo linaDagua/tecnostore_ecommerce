@@ -100,7 +100,7 @@ Contiene información de los proveedores de productos.
 
 ```javascript
 // Crear y conectar a la base de datos
-db = db.getSiblingDB('tecnostore_db');
+use tecnostore_db;
 
 // Crear las colecciones
 db.createCollection("productos");
