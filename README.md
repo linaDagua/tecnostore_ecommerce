@@ -1,7 +1,6 @@
-# SISTEMA DE INVENTARIO E-COMMERCE
+# SISTEMA DE INVENTARIO
 ## TecnoStore Colombia - Tienda en Línea de Tecnología
 
----
 
 ## 1. DISEÑO DEL ESQUEMA DE BASE DE DATOS
 
